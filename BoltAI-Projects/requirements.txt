@@ -1,0 +1,5 @@
+openai
+--upgrade boltiotai
+python-dotenv
+python-telegram-bot
+pillow
